@@ -1,1 +1,1 @@
-# classes_homework
+A simple command-line application.
